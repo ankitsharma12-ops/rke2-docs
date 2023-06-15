@@ -1,0 +1,23 @@
+CIS profile & kernel parameters
+https://github.com/rancher/rancher/issues/37364
+
+Ingress with metallb
+https://github.com/rancher/rke2/issues/1446?ref=raptorswithhats.com
+
+containerd & rke2 proxy settings
+https://github.com/rancher/rke2/issues/517
+
+Rke2 advanced options
+https://docs.rke2.io/advanced
+
+suse rancher metrix
+https://www.suse.com/suse-rancher/support-matrix/all-supported-versions/rancher-v2-7-3/
+
+rancher 2.7.3 release note
+https://www.suse.com/suse-rancher/support-matrix/all-supported-versions/rancher-v2-7-3/
+
+Containerd Registry Configuration
+https://docs.rke2.io/install/containerd_registry_configuration
+
+proxy with rke2-server
+https://github.com/rancher/rke2/issues/3930
