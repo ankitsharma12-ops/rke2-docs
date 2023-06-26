@@ -10,6 +10,9 @@ https://github.com/rancher/rke2/issues/517
 Rke2 advanced options
 https://docs.rke2.io/advanced
 
+RKE2 networking
+https://docs.rke2.io/networking
+
 suse rancher metrix
 https://www.suse.com/suse-rancher/support-matrix/all-supported-versions/rancher-v2-7-3/
 
@@ -21,3 +24,8 @@ https://docs.rke2.io/install/containerd_registry_configuration
 
 proxy with rke2-server
 https://github.com/rancher/rke2/issues/3930
+
+etcd backup via RKE2 to S3 bucket
+https://github.com/rancher/rke2/discussions/3369
+https://github.com/PacktPublishing/Rancher-Deep-Dive/blob/main/ch09/rke2/s3-backups.yaml
+https://docs.rke2.io/backup_restore
